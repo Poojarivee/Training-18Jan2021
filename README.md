@@ -1,11 +1,11 @@
 # Training-18Jan2021
 
-### List of VMs assigned to participants
+### List of VMs assigned to participants <br>
 
-1	Kamal Chawla	Devops-User01
-2	Sheetal S. Gaikwad	Devops-User02
-3	Sameer Nagadwala	Devops-User03
-4	Maheshwar Reddy	Devops-User04
+1	Kamal Chawla	Devops-User01<br>
+2	Sheetal S. Gaikwad	Devops-User02<br>
+3	Sameer Nagadwala	Devops-User03<br>
+4	Maheshwar Reddy	Devops-User04<br>
 5	Rajesh Visweswariah	Devops-User05
 6	Hariram Patil	Devops-User06
 7	Sneha Sathyan	Devops-User07
